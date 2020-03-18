@@ -19,13 +19,7 @@
         "idRoom":2,
         "state":"full",
         "beds":2
-      },
-      {
-        "idRoom":3,
-        "state":"full",
-        "beds":2
       }
-      
     ]
   }
 }
