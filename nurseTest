@@ -1,0 +1,25 @@
+{
+  "startShiftTurnNurseAssistant": null,
+  "endShiftTurnNurseAssistant": null,
+  "assignedFloorNurseAssistant": 1,
+  "idDocumentNurseAssistant": "1",
+  "documentTypeNurseAssistant": "1234567",
+  "nameNurseAssistant": "jonatan",
+  "floor": {
+    "id": 1,
+    "capacity": 2,
+    "state": "open",
+    "rooms":[
+      {
+        "idRoom":1,
+        "state":"open",
+        "beds":3
+      },
+      {
+        "idRoom":2,
+        "state":"full",
+        "beds":2
+      }
+    ]
+  }
+}
