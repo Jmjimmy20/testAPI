@@ -1,0 +1,11 @@
+{
+  "pacientes":[
+  {
+  "idDocument": "1014252071",
+  "documentType": "cc",
+  "name": "paola",
+  "rh": "O-",
+  "birthDay": "22/02/94"
+  }
+  ]
+}
