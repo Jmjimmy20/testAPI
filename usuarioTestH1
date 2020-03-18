@@ -1,0 +1,18 @@
+{
+  "pacientes":[
+  {
+  "idDocument": "1014252069",
+  "documentType": "cc",
+  "name": "juan",
+  "rh": "O+",
+  "birthDay": "20/02/94"
+  },
+  {
+  "idDocument": "1014252070",
+  "documentType": "cc",
+  "name": "alberto",
+  "rh": "A+",
+  "birthDay": "21/02/94"
+  }
+  ]
+}
